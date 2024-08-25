@@ -8,4 +8,9 @@
 
 
 ## Live Projects
-- [https://www.kfeed.app](https://www.kfeed.app)
+
+### Kfeed
+[https://www.kfeed.app](https://www.kfeed.app)
+> Kfeed is a content feed aggregator for K-pop artist-related content from Instagram, Twitter, and YouTube. Its intuitive interface and AI chatbot, powered by Vercel AI, help users stay updated on their favorite artists, including concerts, sponsorships and new albums.
+
+![Kfeed project image](images/kfeed-project-hero.png)
