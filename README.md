@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-- 💙 TypeScirpt & Go developer
+- 💙 TypeScript & Go developer
 - 🧓 10+ years of experience in Node.js
 - 👴 Currently in a lead role but still coding for hours every day
-- 🚲 Gravel Biker on the Belgian dirt roads
-- 🇰🇷 Kpop fan (Midzy for life)
+- 🇰🇷 K-pop fan (Midzy for life)
 
 
 ## Live Projects
 
 ### Kfeed
-[https://www.kfeed.app](https://www.kfeed.app)
-> Kfeed is a content feed aggregator for K-pop artist-related content from Instagram, Twitter, and YouTube. Its intuitive interface and AI chatbot, powered by Vercel AI, help users stay updated on their favorite artists, including concerts, sponsorships and new albums.
+[https://kfeed.framer.website](https://kfeed.framer.website)
+> Kfeed is a proof-of-concept project demonstrating the use of Framer with dynamic API data. It aggregates content related to K-pop artists from platforms like Instagram, Twitter, and YouTube, presenting it through a fun interface.
 
-![Kfeed project image](images/kfeed-project-hero.png)
+![Kfeed project image](images/kfeed-project-hero-framer.png)
