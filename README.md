@@ -5,6 +5,7 @@
 - 👴 Currently in a lead role but still coding for hours every day
 - 🧡 Agentic coding enthusiast with OpenCode and Claude Code
 - 🇰🇷 K-pop fan (Midzy for life)
+- ⌨️ Neovim btw 
 
 
 ## Live Projects
